@@ -296,7 +296,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: #232323;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -309,11 +309,11 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #232323;
+  color: #D6D6D6;
 }
 
 #hero p {
-  color: #232323;
+  color: #D6D6D6;
   margin: 15px 0 0 0;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
